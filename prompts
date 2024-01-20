@@ -1,0 +1,2 @@
+apytorch && cd /home/panr/all_projects/PAtt-Lite && nohup python main.py >/home/panr/all_results/PAtt-Lite/log_run/RAF-DB_ir50_focalloss_sam_b128_lr3.5e-05.log &
+
